@@ -1,0 +1,3 @@
+"estas son mis primeras notas en git" 
+
+aprendiendo git paso a paso
